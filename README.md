@@ -11,5 +11,3 @@ This repository contains solutions to optimization problems as part of the **Dis
   Solution to the Weighted Tardiness Problem, aimed at minimizing task tardiness costs using dynamic programming.
 
 ---
-
-Feel free to suggest additional details or improvements! 😊
